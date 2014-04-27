@@ -1,0 +1,13 @@
+To compile the binner application, run "make".
+
+To install the binner into a directory of your choice, copy the files "mcmc.pl"
+and "c/mcmc-core" into a directory contained in your PATH. Optionally, also copy
+the accessory script test_binner.pl.
+
+
+To test the binner application, run "make test". The tests require the presence of the "test-data" directory, whose contents can be downloaded at our website:
+
+http://ecotheory.biology.gatech.edu/downloads/likelybin
+
+
+This archive must be unpacked into this directory.
